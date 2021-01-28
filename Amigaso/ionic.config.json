@@ -1,0 +1,7 @@
+{
+  "name": "AmiGASo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
